@@ -1,0 +1,72 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/commons-af775acf5374049a3b93.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-projects-query-tsx-5e8ee4f9745b81b0ffaf.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-4ab6e59c7f8dd04d9ecd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-page-query-tsx-ed4bc900b1a54c14867f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-gatsby-plugin-offline-app-shell-js-6cc37212ef529ca81b4e.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-2032426cfd57a75294c4.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-47d4d799e7db6b88da25.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-2032426cfd57a75294c4.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </app-47d4d799e7db6b88da25.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-projects-query-tsx-5e8ee4f9745b81b0ffaf.js>; rel=preload; as=script
+/交通运输学院-交通项目评估与管理
+  Link: </webpack-runtime-2032426cfd57a75294c4.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </app-47d4d799e7db6b88da25.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-4ab6e59c7f8dd04d9ecd.js>; rel=preload; as=script
+/交通运输学院-投资项目评估
+  Link: </webpack-runtime-2032426cfd57a75294c4.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </app-47d4d799e7db6b88da25.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-4ab6e59c7f8dd04d9ecd.js>; rel=preload; as=script
+/交通运输学院-交通工程概预算
+  Link: </webpack-runtime-2032426cfd57a75294c4.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </app-47d4d799e7db6b88da25.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-4ab6e59c7f8dd04d9ecd.js>; rel=preload; as=script
+/交通运输学院-项目评估与管理
+  Link: </webpack-runtime-2032426cfd57a75294c4.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </app-47d4d799e7db6b88da25.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-4ab6e59c7f8dd04d9ecd.js>; rel=preload; as=script
+/正在施工
+  Link: </webpack-runtime-2032426cfd57a75294c4.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </app-47d4d799e7db6b88da25.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-4ab6e59c7f8dd04d9ecd.js>; rel=preload; as=script
+/about
+  Link: </webpack-runtime-2032426cfd57a75294c4.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </app-47d4d799e7db6b88da25.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-page-query-tsx-ed4bc900b1a54c14867f.js>; rel=preload; as=script
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-2032426cfd57a75294c4.js>; rel=preload; as=script
+  Link: </commons-af775acf5374049a3b93.js>; rel=preload; as=script
+  Link: </app-47d4d799e7db6b88da25.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-6cc37212ef529ca81b4e.js>; rel=preload; as=script
